@@ -25,7 +25,7 @@ becomes
     misc/borg.sh ssh://<hetzner_storagebox_username>@u236610.your-storagebox.de:23/~/backup/homedir.archlinux.org::20191127-084357
 
 A convenience wrapper script is available at `misc/borg.sh` which makes sure you
-use the correct keyfile for a given server.
+use the correct keyfile for the given server.
 
 ## Listing backups in repository
 
