@@ -15,7 +15,7 @@ while for the offsite one it's
     ssh://<rsync_net_username>@prio.ch-s012.rsync.net:22/~/backup/<hostname>
 
 In the examples below, we'll just abbreviate the full address as `<backup_address>`.
-If you want to make use one of the example below, you'll have to fill in the
+If you want to use one of the examples below, you'll have to fill in the
 placeholder with your desired full address to the backup repository. For instance,
 
     misc/borg.sh list <backup_address>::20191127-084357
