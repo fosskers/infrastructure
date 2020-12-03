@@ -6,6 +6,7 @@ ipv4_gateway: "212.102.38.222"
 
 filesystem: "btrfs"
 network_interface: "en*"
+configure_network: true
 
 system_disks:
   - /dev/sda
