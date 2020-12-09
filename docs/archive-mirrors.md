@@ -1,3 +1,0 @@
-## Archives
-
-Run syncarchive role
